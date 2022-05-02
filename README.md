@@ -2,4 +2,6 @@
 
 Created during Nextjs tutorial
 
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+# link to deployed app
+
+https://thorataditya14-nextjs-blog.vercel.app/
