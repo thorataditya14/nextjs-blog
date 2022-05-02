@@ -4,4 +4,4 @@ Created during Nextjs tutorial
 
 # link to deployed app
 
-https://thorataditya14-nextjs-blog.vercel.app/
+https://nextjs-blog-thorataditya14.vercel.app/
